@@ -1,4 +1,12 @@
-# Gerenciador de Eventos
+# Projeto MVC em JAVA
+
+<div align="center">
+ <img src=https://www.vectorlogo.zone/logos/java/java-horizontal.svg>
+</div>
+
+---
+
+## Gerenciador de Eventos
 
 Este projeto é um gerenciador de eventos simples desenvolvido em Java, utilizando a biblioteca Swing para a interface gráfica. O aplicativo permite que os usuários adicionem eventos, que são salvos em um arquivo de texto. Os eventos são exibidos na interface e persistem mesmo após o fechamento do aplicativo.
 
