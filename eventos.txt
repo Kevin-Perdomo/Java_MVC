@@ -2,3 +2,6 @@ formatura;formatura;iff
 formatura;formatura;iff
 Formatura;anual;IFF
 Formatura;anual;IFF
+Formatura;Semestral;IFF
+Formatura da Computação;Semestral;IFF
+Formatura da Computação;Anual;IFF
