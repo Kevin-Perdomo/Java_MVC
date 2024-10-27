@@ -1,3 +1,4 @@
-evento;20/10/2024 - 14:00;IFF
-Formatura de Mateus;21/10/2024 - 20:00;Instituto Federal Fluminense
-Formatura de Kaiky;21/10/2024 - 21:00;Instituto Federal Fluminense
+formatura;formatura;iff
+formatura;formatura;iff
+Formatura;anual;IFF
+Formatura;anual;IFF
